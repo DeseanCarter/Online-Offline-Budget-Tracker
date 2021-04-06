@@ -27,4 +27,4 @@ N/A
 # Questions
 Email
 # Screenshots
-![Main Page](./Develop/public/assets/budget-tracker.jpg)
+![Main Page](./Develop/budget-tracker.jpg)
